@@ -1,4 +1,4 @@
-# AI-based-single-page-website-for-IT-Company
+
 # AI-Based Business Website with Chatbot
 
 A modern, responsive single-page business website for Desert Storm Technologies, integrated with an intelligent AI-powered chatbot for enhanced user interaction and real-time query handling.
@@ -20,6 +20,11 @@ This project demonstrates the seamless integration of conversational AI into a p
 [View Live Website](#) <!-- Add your deployed website URL here -->
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/7b2bf5f2-f482-41dc-9ac7-24f0f32cad56) 
+
+![image](https://github.com/user-attachments/assets/417f4228-8679-46c1-bc2b-29388335c7cb)
+
+
 
 ### Homepage & Landing Page
 The main interface showcasing the company's professional presence with integrated search functionality.
@@ -188,16 +193,13 @@ This project provided hands-on experience in:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
 **Adarsh** - *Full Stack Developer & AI Enthusiast*
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: https://github.com/Adarshbangre
+- LinkedIn: https://www.linkedin.com/in/adarsh-bangre-b11225201/
+- Email: adarshbngrerao@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -205,14 +207,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Smart Desert** for providing the learning platform and guidance
 - **Chatbase** for the AI chatbot integration capabilities
 - **React, Tailwind CSS, and Framer Motion** communities for excellent documentation
-
-## 📞 Support
-
-If you have any questions or need assistance with the project, please:
-1. Check the [Issues](https://github.com/yourusername/ai-business-website-chatbot/issues) section
-2. Create a new issue with detailed information
-3. Contact the project maintainer
-
 ---
 
 **Built with ❤️ using React, TypeScript, and AI technology**
